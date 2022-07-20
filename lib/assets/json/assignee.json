@@ -1,0 +1,523 @@
+{
+  "code": 200,
+  "message": "Đã xử lý thành công!",
+  "data": [
+    {
+      "id": 189935699,
+      "display_name": "mik",
+      "lang": "vi",
+      "cover": "",
+      "avatar": "",
+      "email": "minh164@yopmail.com",
+      "info": {
+        "work": [
+          {
+            "user_id": 189935699,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "department_id": "",
+            "department": "",
+            "title": "",
+            "role_id": ""
+          }
+        ],
+        "bio": ""
+      },
+      "status": 1,
+      "status_verify": 0,
+      "phone_number": "84704091234",
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "data_source": 4,
+      "created_at": 1641353941,
+      "updated_at": 1641370245,
+      "join_date": 1641353941,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    },
+    {
+      "id": 201136890,
+      "display_name": "Manh 05",
+      "cover": "",
+      "avatar": "",
+      "email": "manh05@gapo.com.vn",
+      "info": {
+        "bio": "",
+        "work": [
+          {
+            "user_id": 201136890,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "departments": [
+              "Gapo Staging",
+              "pb11"
+            ],
+            "department_ids": [
+              "581860791816317",
+              "06d44ca6a0404c259353904814c7f0af"
+            ],
+            "department_id": "06d44ca6a0404c259353904814c7f0af",
+            "department": "pb11",
+            "title": "",
+            "role_id": ""
+          }
+        ]
+      },
+      "status": 1,
+      "status_verify": 0,
+      "phone_number": "84353096866",
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 0,
+        "month": 0,
+        "year": 0,
+        "zodiac": "",
+        "privacy_birth_date": 0,
+        "privacy_birth_year": 0
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "created_at": 1620984646,
+      "updated_at": 1632803091,
+      "join_date": 1620984647,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    },
+    {
+      "id": 212633030,
+      "display_name": "test55@cuedigy.com",
+      "cover": "",
+      "avatar": "",
+      "email": "test55@cuedigy.com",
+      "info": {
+        "bio": "",
+        "work": [
+          {
+            "user_id": 212633030,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "departments": [
+              "Gapo Staging",
+              "pb11"
+            ],
+            "department_ids": [
+              "581860791816317",
+              "06d44ca6a0404c259353904814c7f0af"
+            ],
+            "department_id": "06d44ca6a0404c259353904814c7f0af",
+            "department": "pb11",
+            "title": "",
+            "role_id": ""
+          }
+        ]
+      },
+      "status": 1,
+      "status_verify": 0,
+      "phone_number": "",
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "data_source": 6,
+      "created_at": 1642318588,
+      "updated_at": 1642318603,
+      "join_date": 1642318588,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    },
+    {
+      "id": 215177937,
+      "display_name": "Thảo Trần Thị Thu",
+      "lang": "vi",
+      "cover": "",
+      "avatar": "",
+      "email": "tranthithuthao@gapo.com.vn",
+      "info": {
+        "work": [
+          {
+            "user_id": 215177937,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "department_id": "",
+            "department": "",
+            "title": "",
+            "role_id": ""
+          }
+        ],
+        "bio": ""
+      },
+      "status": 1,
+      "status_verify": 0,
+      "phone_number": "84774130915",
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 4,
+        "month": 4,
+        "year": 1991
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "data_source": 1,
+      "created_at": 1652770248,
+      "updated_at": 1652770285,
+      "join_date": 1652770249,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    },
+    {
+      "id": 234093821,
+      "display_name": "test56@cuedigy.com",
+      "cover": "",
+      "avatar": "",
+      "email": "test56@cuedigy.com",
+      "info": {
+        "bio": "",
+        "work": [
+          {
+            "user_id": 234093821,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "departments": [
+              "Gapo Staging",
+              "pb11"
+            ],
+            "department_ids": [
+              "581860791816317",
+              "06d44ca6a0404c259353904814c7f0af"
+            ],
+            "department_id": "06d44ca6a0404c259353904814c7f0af",
+            "department": "pb11",
+            "title": "",
+            "role_id": ""
+          }
+        ]
+      },
+      "status": 1,
+      "status_verify": 0,
+      "phone_number": "",
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "data_source": 6,
+      "created_at": 1642318771,
+      "updated_at": 1642320151,
+      "join_date": 1642318771,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    },
+    {
+      "id": 249017309,
+      "display_name": "fdsgfrd",
+      "cover": "",
+      "avatar": "",
+      "email": "hgf@gmail.com",
+      "info": {
+        "bio": "",
+        "work": [
+          {
+            "user_id": 249017309,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "departments": [
+              "Gapo Staging",
+              "pb11"
+            ],
+            "department_ids": [
+              "581860791816317",
+              "06d44ca6a0404c259353904814c7f0af"
+            ],
+            "department_id": "06d44ca6a0404c259353904814c7f0af",
+            "department": "pb11",
+            "title": "",
+            "role_id": ""
+          }
+        ]
+      },
+      "status": 1,
+      "status_verify": 0,
+      "phone_number": "",
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "data_source": 6,
+      "created_at": 1641899144,
+      "updated_at": 1641899144,
+      "join_date": 1641899145,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    },
+    {
+      "id": 262469932,
+      "display_name": "employeeCount",
+      "cover": "",
+      "avatar": "",
+      "email": "employeecount@yopmail.com",
+      "info": {
+        "bio": "",
+        "work": [
+          {
+            "user_id": 262469932,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "departments": [
+              "Gapo Staging",
+              "pb11"
+            ],
+            "department_ids": [
+              "581860791816317",
+              "06d44ca6a0404c259353904814c7f0af"
+            ],
+            "department_id": "06d44ca6a0404c259353904814c7f0af",
+            "department": "pb11",
+            "title": "",
+            "role_id": ""
+          }
+        ]
+      },
+      "status": 1,
+      "status_verify": 0,
+      "phone_number": "",
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "data_source": 6,
+      "created_at": 1642145863,
+      "updated_at": 1642489462,
+      "join_date": 1642145864,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    },
+    {
+      "id": 274425654,
+      "display_name": "asbdansbd",
+      "cover": "",
+      "avatar": "",
+      "email": "aaaaa@gmail.com",
+      "info": {
+        "bio": "",
+        "work": [
+          {
+            "user_id": 274425654,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "departments": [
+              "Gapo Staging",
+              "Phòng ban cha",
+              "Phòng ban con"
+            ],
+            "department_ids": [
+              "581860791816317",
+              "f06f03e219794adfb937282add4ed8cf",
+              "f863931934114961b772ef17ad12aa38"
+            ],
+            "department_id": "f863931934114961b772ef17ad12aa38",
+            "department": "Phòng ban con",
+            "title": "",
+            "role_id": ""
+          }
+        ]
+      },
+      "status": 1,
+      "status_verify": 0,
+      "phone_number": "",
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "data_source": 6,
+      "created_at": 1641287569,
+      "updated_at": 1650614224,
+      "join_date": 1641287570,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    },
+    {
+      "id": 304016652,
+      "display_name": "Vân ngáo",
+      "cover": "",
+      "avatar": "",
+      "email": "hoangvananh@gmail.com",
+      "info": {
+        "bio": "",
+        "work": [
+          {
+            "user_id": 304016652,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "departments": [
+              "Gapo Staging",
+              "pb11"
+            ],
+            "department_ids": [
+              "581860791816317",
+              "06d44ca6a0404c259353904814c7f0af"
+            ],
+            "department_id": "06d44ca6a0404c259353904814c7f0af",
+            "department": "pb11",
+            "title": "",
+            "role_id": ""
+          }
+        ]
+      },
+      "status": 1,
+      "status_verify": 0,
+      "phone_number": "84333880649",
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "data_source": 6,
+      "created_at": 1639378535,
+      "updated_at": 1641368262,
+      "join_date": 1639378536,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    },
+    {
+      "id": 305446016,
+      "display_name": "manh04",
+      "cover": "",
+      "avatar": "",
+      "email": "manh04@gapo.com.vn",
+      "info": {
+        "bio": "",
+        "work": [
+          {
+            "user_id": 305446016,
+            "workspace_id": "581860791816317",
+            "company": "Gapo Staging",
+            "departments": [
+              "Gapo Staging",
+              "pb11"
+            ],
+            "department_ids": [
+              "581860791816317",
+              "06d44ca6a0404c259353904814c7f0af"
+            ],
+            "department_id": "06d44ca6a0404c259353904814c7f0af",
+            "department": "pb11",
+            "title": "",
+            "role_id": ""
+          }
+        ]
+      },
+      "status": 1,
+      "status_verify": 0,
+      "privacy": {
+        "email": 5,
+        "phone_number": 5
+      },
+      "birthday": {
+        "day": 0,
+        "month": 0,
+        "year": 0,
+        "zodiac": "",
+        "privacy_birth_date": 0,
+        "privacy_birth_year": 0
+      },
+      "gender": {
+        "gender": 0,
+        "privacy": 5
+      },
+      "created_at": 1622017043,
+      "updated_at": 1644302243,
+      "join_date": 1622017043,
+      "avatar_thumb_pattern": "",
+      "cover_thumb_pattern": "",
+      "relation": 0
+    }
+  ],
+  "links": {
+    "next": "page_number=2&limit=10&q=&workspace_id=581860791816317&group_id=&fields=",
+    "prev": "",
+    "total_pages": 35,
+    "total_items": 341
+  }
+}

@@ -1,0 +1,32 @@
+name: gp_mention
+description: A new Flutter plugin project.
+version: 0.0.1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  diff_match_patch: ^0.4.1
+
+  get: ^4.6.1
+  get_storage: ^2.0.3
+
+  equatable: ^2.0.0-nullsafety.1
+
+  flutter_keyboard_visibility: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+  build_runner: ^2.0.5
+  json_serializable: ^6.2.0
+
+flutter:
+  assets:
+    - packages/gp_mention/assets/json/assignee.json
